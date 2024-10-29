@@ -20,3 +20,5 @@ Languages: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 Tools: Jupyter Notebook
+
+About the dataset: THIS DATASET IS TAKEN DIRECTLY FROM BLASTING REPORT OF AN IRON ORE MINE OF FY23 AND ITS A REAL WORLD DATASET WHICH I GOT FROM MY SENIOR.
